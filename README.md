@@ -16,7 +16,7 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### 📲 How to run our app service
-- Click [here](https://drive.google.com/file/d/1DTCVnC_HgaEpXLwpEMLQHlceZf4jSuKA/view?usp=drive_link) to download an apk file.
+- Click [here](https://drive.google.com/file/d/12P7t5pfcHeHM_kRQZn1H-NksrPiNK_a4/view?usp=drive_link) to download an apk file.
 - Install the apk file and **Please Run it on Android**
 - After signing up ,  log in to access the app.
 - The ml server and Spring server must be operational for the app to function properly.
