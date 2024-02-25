@@ -1,5 +1,5 @@
 # 2024-FactChecker-SolutionChallenge : TrueTree
-[![섬네일2](https://youtu.be/gTzdcsdVyDA?si=2YGfmf2wdqFjuh32)
+[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/gTzdcsdVyDA?si=ztaiq5W6plqFrXui)
 
 <br>
 
@@ -72,7 +72,7 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### Demo Video Link
-[![섬네일2](https://youtu.be/gTzdcsdVyDA?si=2YGfmf2wdqFjuh32)
+[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/gTzdcsdVyDA?si=ztaiq5W6plqFrXui)
 
 
 <br>
