@@ -16,7 +16,7 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### 📲 How to run our app service
-- The ml server and Spring server must be operational for the app to function properly.
+- The ml server ,Spring server, DB must be operational If you want the app to function properly. (Currently, the deployed server is down due to cost.)
 - Click [here](https://drive.google.com/file/d/12P7t5pfcHeHM_kRQZn1H-NksrPiNK_a4/view?usp=drive_link) to download an apk file.
 - Install the apk file and **Please Run it on Android**
 - After signing up ,  log in to access the app.
