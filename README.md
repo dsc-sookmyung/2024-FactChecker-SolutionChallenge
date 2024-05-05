@@ -32,11 +32,11 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### 🔧 Google Technology Used
-| GCP | Gemini  | Tensorflow |
-| --- | --- | --- |
+| GCP | Gemini  |
+| --- | --- |
 
 ### 🛠 Project Architecture
-![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/3c25d8f0-076e-4234-98df-3fc2207256fe)
+![SoftWareArchitecture](https://github.com/dsc-sookmyung/2024-FactChecker-SolutionChallenge/assets/80513699/a0a2f459-9be7-4307-b82f-f27ecdce8cb6)
 
 ### Feature Overview
 ### 01 Login & Sign up
