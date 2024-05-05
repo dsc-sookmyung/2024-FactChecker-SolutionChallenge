@@ -1,11 +1,11 @@
-# 2024-FactChecker-SolutionChallenge : TrueTree
-[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/gTzdcsdVyDA?si=ztaiq5W6plqFrXui)
+# 2024 Solution Challenge: TrueTree
+[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/EvzTrgP23jI)
 
 <br>
 
 ### ❗️ Introduction
 
-Fake news has become a global social problem, spreading misinformation and causing harm. It's fueled by AI-generated content and deep-fake technology, disrupting the information ecosystem. This issue is particularly evident during critical events like the Russian invasion of Ukraine, the Israeli-Hamas conflict, and US elections.
+Fake news has become a global social problem, spreading misinformation and causing harm. It's fueled by AI-generated content and deep-fake technology, disrupting the information ecosystem. This issue is particularly evident during critical events like the Russian invasion of Ukraine, the Israeli-Palestinian conflict, and US elections.
 In response, the US media plans to combat misinformation by disseminating fake videos of Russia attacking its own country during the Ukraine conflict. This tactic aims to expose the invasion's reality. However, fake news exacerbates confusion and anxiety, contributing to international conflict.
 The spread of fake news is also alarming domestically, especially among students whose literacy suffers due to digital media exposure. Korean students exhibit low proficiency in identifying digital information authenticity, the lowest among OECD countries. Primary school teachers attribute this to students' reliance on video platforms like YouTube and deficient reading skills.
 To address this, several solutions have been proposed:
@@ -16,11 +16,10 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### 📲 How to run our app service
-- The ml server ,Spring server, DB must be operational If you want the app to function properly. (Currently, the deployed server is down due to cost.)
-- Click [here](https://drive.google.com/file/d/12P7t5pfcHeHM_kRQZn1H-NksrPiNK_a4/view?usp=drive_link) to download an apk file.
+- Click [here](https://drive.google.com/file/d/1DTCVnC_HgaEpXLwpEMLQHlceZf4jSuKA/view?usp=drive_link) to download an apk file.
 - Install the apk file and **Please Run it on Android**
 - After signing up ,  log in to access the app.
-
+- The ml server and Spring server must be operational for the app to function properly.
 <br>
 
 ### ✔ UN SDGs Goals & Target
@@ -32,11 +31,12 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### 🔧 Google Technology Used
-| GCP | Gemini  |
+| GCP | Gemini |
 | --- | --- |
 
 ### 🛠 Project Architecture
-![SoftWareArchitecture](https://github.com/dsc-sookmyung/2024-FactChecker-SolutionChallenge/assets/80513699/a0a2f459-9be7-4307-b82f-f27ecdce8cb6)
+![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/81565724/644306cf-0e50-417b-923a-3ed99755ba82)
+
 
 ### Feature Overview
 ### 01 Login & Sign up
@@ -73,7 +73,7 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### Demo Video Link
-[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/gTzdcsdVyDA?si=ztaiq5W6plqFrXui)
+[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/EvzTrgP23jI)
 
 
 <br>
