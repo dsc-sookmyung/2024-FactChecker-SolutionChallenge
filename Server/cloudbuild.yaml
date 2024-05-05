@@ -1,0 +1,23 @@
+steps:
+  # Docker 이미지 빌드
+  - name: 'gcr.io/cloud-builders/docker'
+    args: 
+      - 'build'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/truetree-cloud-run:$SHORT_SHA'
+      - '.'
+  # Docker 이미지 푸시
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/truetree-cloud-run:$SHORT_SHA']
+
+  # Cloud Run에 배포
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args: ['run', 'deploy', 'truetree-cloud-run', '--image', 'gcr.io/$PROJECT_ID/truetree-cloud-run:$SHORT_SHA', '--platform', 'managed', '--region', 'asia-east1', '--allow-unauthenticated']
+
+images:
+  - 'gcr.io/$PROJECT_ID/truetree-cloud-run:$SHORT_SHA'
+
+timeout: '1600s'
+options:
+  logging: CLOUD_LOGGING_ONLY
